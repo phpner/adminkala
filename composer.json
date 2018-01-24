@@ -1,0 +1,19 @@
+{
+    "name": "phpner/adminka",
+    "description": "A admin panel for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phpner",
+            "email": "phpner@gmail.com"
+        }
+    ],
+    
+    "require": {},
+    "autoload":{
+        "psr-4" :{
+            "Phpner\\Adminka\\" : "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
